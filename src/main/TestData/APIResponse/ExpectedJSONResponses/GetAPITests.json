@@ -1,0 +1,139 @@
+{
+  "Templating example": "For more information about templating, click the blue 'i' above this editor",
+  "users": [
+    {
+      "userId": "99589",
+      "firstname": "Rex",
+      "lastname": "Jones",
+      "friends": [
+        {
+          "id": "3dd7cef3-2cb0-4a3b-916c-655103799749"
+        },
+        {
+          "id": "a430803e-d1c1-4156-92ad-4a36a91358fe"
+        }
+      ]
+    },
+    {
+      "userId": "87912",
+      "firstname": "Curt",
+      "lastname": "Graham",
+      "friends": [
+      ]
+    },
+    {
+      "userId": "55806",
+      "firstname": "Cheyanne",
+      "lastname": "Haag",
+      "friends": [
+        {
+          "id": "504866a1-c9a6-4d1c-85df-62a880c21343"
+        },
+        {
+          "id": "7114e482-6ea6-4cf7-9174-60c5d359d932"
+        }
+      ]
+    },
+    {
+      "userId": "29075",
+      "firstname": "Cortney",
+      "lastname": "Smith",
+      "friends": [
+        {
+          "id": "59d7cdb0-888c-4bf2-a854-ea6aba923026"
+        },
+        {
+          "id": "8a0955db-2a8c-45b9-91c8-ddbd1170cd3e"
+        },
+        {
+          "id": "c547df9e-d47c-49c4-85bb-7740e09ba442"
+        }
+      ]
+    },
+    {
+      "userId": "66782",
+      "firstname": "Orrin",
+      "lastname": "Sporer",
+      "friends": [
+        {
+          "id": "600ff0da-ea72-4288-a12b-665265d221ff"
+        },
+        {
+          "id": "4764e943-6d4f-4814-b628-45db6f0ee8bb"
+        },
+        {
+          "id": "bdb8f393-99e1-439e-ab4e-7bd8cfc633e5"
+        }
+      ]
+    },
+    {
+      "userId": "65302",
+      "firstname": "Ayden",
+      "lastname": "Lemke",
+      "friends": [
+        {
+          "id": "9a046b82-99e0-4013-ab19-2e49daba9835"
+        },
+        {
+          "id": "d7b5e9ae-3372-4924-9468-8bc52a5f4243"
+        }
+      ]
+    },
+    {
+      "userId": "24870",
+      "firstname": "Don",
+      "lastname": "Bode",
+      "friends": [
+        {
+          "id": "f9b629b0-9936-4ecd-9f7a-15ec57a164ba"
+        },
+        {
+          "id": "d7275c64-60d1-4513-ae2b-6b51ab36c1ef"
+        },
+        {
+          "id": "fbd9a96f-bccc-4fc4-a542-1acc361c46a5"
+        }
+      ]
+    },
+    {
+      "userId": "99508",
+      "firstname": "Greta",
+      "lastname": "Aufderhar",
+      "friends": [
+        {
+          "id": "e88a4001-0b58-41d4-9d5e-0374819035fa"
+        }
+      ]
+    },
+    {
+      "userId": "59361",
+      "firstname": "Seamus",
+      "lastname": "Upton",
+      "friends": [
+      ]
+    },
+    {
+      "userId": "79842",
+      "firstname": "Dewitt",
+      "lastname": "Kunze",
+      "friends": [
+        {
+          "id": "cbd780f1-d01d-4995-917f-aa788500d14e"
+        },
+        {
+          "id": "10c8d4ed-62db-4684-9353-9f6915358b38"
+        },
+        {
+          "id": "8c9a56c8-1224-47d1-9b4c-128267868f18"
+        },
+        {
+          "id": "b98b56fc-50da-4bd8-802c-a7448b68d441"
+        },
+        {
+          "id": "11c71ea9-3e56-4d47-84b5-72786b99b676"
+        }
+      ]
+    }
+  ],
+  "total": "10"
+}
